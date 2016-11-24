@@ -1,0 +1,120 @@
+<!-- <li class="nav-item dropdown"> -->
+  <!-- <a class="nav-link dropdown-toggle" href="http://example.com" id="supportedContentDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a> -->
+  <!-- <li class="btn-group" style="margin-left: 10px;">
+          <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Action
+  </button>
+  <div class="dropdown-menu">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+    <div class="dropdown-divider"></div>
+    <a class="dropdown-item" href="#">Separated link</a>
+  </div>
+</li>
+
+<li class="btn-group">
+        <button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  Action
+</button>
+<div class="dropdown-menu">
+  <a class="dropdown-item" href="#">Action</a>
+  <a class="dropdown-item" href="#">Another action</a>
+  <a class="dropdown-item" href="#">Something else here</a>
+  <div class="dropdown-divider"></div>
+  <a class="dropdown-item" href="#">Separated link</a>
+</div>
+</li> -->
+  <!-- <div class="dropdown-menu" aria-labelledby="supportedContentDropdown">
+    <a class="dropdown-item" href="#">Action</a>
+    <a class="dropdown-item" href="#">Another action</a>
+    <a class="dropdown-item" href="#">Something else here</a>
+  </div> -->
+<!-- </li> -->
+
+<!-- <div class="nav nav-inline">
+<a class="nav-link active" href="#">Active</a>
+<a class="nav-link" href="#">Link</a>
+<a class="nav-link" href="#">Link</a>
+<a class="nav-link disabled" href="#">Disabled</a>
+</div> -->
+<!-- <nav class="navbar navbar-default" role="navigation">
+<ul class="nav nav-pills">
+<li class="nav-item">
+<a class="nav-link active" href="#">Active</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#">Link</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#">Link</a>
+</li>
+<li class="nav-item">
+<a class="nav-link disabled" href="#">Disabled</a>
+</li>
+</ul>
+</nav> -->
+
+
+<!-- <ul class="nav nav-pills">
+<li class="nav-item">
+<a class="nav-link active" href="#">Active</a>
+</li>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+<div class="dropdown-menu">
+  <a class="dropdown-item" href="#">Action</a>
+  <a class="dropdown-item" href="#">Another action</a>
+  <a class="dropdown-item" href="#">Something else here</a>
+  <div class="dropdown-divider"></div>
+  <a class="dropdown-item" href="#">Separated link</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#">Link</a>
+</li>
+<li class="nav-item">
+<a class="nav-link disabled" href="#">Disabled</a>
+</li>
+</ul> -->
+<!--
+<div class="nav nav-pills">
+<div class="nav-item">
+<a class="nav-link active" href="#">Active</a>
+</div>
+<div class="nav-item dropdown">
+<a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+<div class="dropdown-menu">
+  <a class="dropdown-item" href="#">Action</a>
+  <a class="dropdown-item" href="#">Another action</a>
+  <a class="dropdown-item" href="#">Something else here</a>
+  <div class="dropdown-divider"></div>
+  <a class="dropdown-item" href="#">Separated link</a>
+</div>
+</div>
+<div class="nav-item">
+<a class="nav-link" href="#">Link</a>
+</div>
+<div class="nav-item">
+<a class="nav-link disabled" href="#">Disabled</a>
+</div>
+</div> -->
+//  //  and passcode = '$mypassword'";
+// $sql = "SELECT acctid FROM accounts WHERE first_name = '$myusername' ";
+//   $result = mysqli_query($db,$sql);
+//   $row = mysqli_fetch_array($result,MYSQLI_ASSOC);
+// //  //   $active = $row['active'];
+// //  //   $error = "";
+//   $count = mysqli_num_rows($result);
+//
+//    // If result matched $myusername and $mypassword, table row must be 1 row
+// //
+//   if($count == 1) {
+//     //  session_register("myusername");
+//      $_SESSION['login_user'] = $myusername;
+// //       $error = " ";
+//      header("location: welcome.php");
+//   } else {
+//     //  echo "error";
+//      $error = "Your Login Name or Password is invalid";
+    //  echo $error;
